@@ -1,9 +1,8 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D6A4F&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Bamidale+%F0%9F%91%8B%F0%9F%8F%BE;UI%2FUX+Designer+%26+Product+Thinker;Building+on+the+Blockchain+%E2%9B%93;Crafting+Products+People+Love+%F0%9F%92%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D6A4F&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Bamford+%F0%9F%91%8B%F0%9F%8F%BE;UI%2FUX+Designer+%26+Product+Thinker;Building+on+the+Blockchain+%E2%9B%93;Crafting+Products+People+Love+%F0%9F%92%9A)](https://git.io/typing-svg)
 
-<img src="https://visitcount.itsvg.in/api?id=Just-Bamford&icon=6&color=3" />
 
 </div>
 
