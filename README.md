@@ -3,7 +3,6 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D6A4F&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Bamford+%F0%9F%91%8B%F0%9F%8F%BE;UI%2FUX+Designer+%26+Product+Thinker;Building+on+the+Blockchain+%E2%9B%93;Crafting+Products+People+Love+%F0%9F%92%9A)](https://git.io/typing-svg)
 
-
 </div>
 
 ---
@@ -11,10 +10,10 @@
 ## 🙋🏾‍♂️ About Me
 
 - 🎨 **Product Designer & UI/UX Engineer** — I make interfaces that feel right, not just look right
-- ⛓️ **Smart Contract Developer** — Building on **Stellar (Soroban)** with Rust
-- 🫙 Currently building **SusuBox** — a community savings app rooted in the West African Susu/Ajo tradition
+- 🖥️ **Frontend Developer** — Turning designs into real, living products
+- ⚙️ **Backend & Smart Contract Developer** — Building on **Stellar (Soroban)** with Rust
+- 🫙 Currently building **AnonVote** and **Sorokit**
 - 🌟 Also working on **Stellar Royalty Splitter** — on-chain royalty automation for creators
-- 📍 Based in **Shagamu, Nigeria** 🇳🇬 — building for the world
 - 💬 Ask me about **UI/UX Design, Product Strategy, Soroban Smart Contracts**
 - 🤝 Open to collaborations and new projects — let's build something!
 
@@ -61,32 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Just-Bamford&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Bamford&theme=dark&hide_border=false" height="165" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just-Bamford&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Just-Bamford&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
+## ✍️ Quote of the Day
 
 <div align="center">
 
